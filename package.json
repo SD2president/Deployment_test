@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "deployment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SD2president/Deployment_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SD2president/Deployment_test/issues"
+  },
+  "homepage": "https://github.com/SD2president/Deployment_test#readme",
+  "description": ""
+}
